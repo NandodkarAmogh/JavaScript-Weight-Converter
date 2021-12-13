@@ -21,13 +21,13 @@ Users should be able to enter weight in pounds and should be able to see the equ
 
 ### Screenshot
 
-![](./images/1920 x 1080.png)
+![](./images/desktop.png)
 ![](./images/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NandodkarAmogh/JavaScript-Weight-Converter](https://github.com/NandodkarAmogh/JavaScript-Weight-Converter)
+- Live Site URL: [https://vanilla-js-weight-converter.netlify.app/](https://vanilla-js-weight-converter.netlify.app/)
 
 ## My process
 
@@ -56,6 +56,6 @@ document.getElementById('lbsInput').addEventListener('input', (e) => {
 
 ## Author
 
-- Live Project - [Weight Converter](https://www.your-site.com)
+- Live Site - [Amogh Nandodkar](https://amoghnandodkar.netlify.app/)
 - GitHub -  [Amogh Nandodkar](https://github.com/NandodkarAmogh)
 
